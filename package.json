@@ -53,7 +53,7 @@
   "homepage": "https://ckeditor.com/ckeditor-5",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shino47/ckeditor5-build-laravel-image.git"
+    "url": "https://github.com/italianst4/ckeditor5-build-laravel-image.git"
   },
   "scripts": {
     "build": "webpack --mode production",
