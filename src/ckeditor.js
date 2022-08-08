@@ -119,10 +119,6 @@ ClassicEditor.defaultConfig = {
   language: 'en', // This value must be kept in sync with the language defined in webpack.config.js
   simpleUpload: {
     uploadUrl: {
-      headers: {
-        'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').content,
-        'accept': 'application/json'
-      }
     }
   }
 };
